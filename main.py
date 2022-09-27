@@ -19,7 +19,7 @@ client = tweepy.Client(consumer_key=api_key,
 
 
 def gpt3(text):
-    openai.api_key = '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'
+    openai.api_key = 'MY_OPEN_API_KEY'
     response = openai.Completion.create(
         engine="text-davinci-002",
         prompt=text,
