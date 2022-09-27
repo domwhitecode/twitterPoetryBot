@@ -2,12 +2,12 @@ import tweepy
 import openai
 import random
 
-api_key = '7FjjKNPnuPAeKKX1Olf8UK6LI'
-api_key_secret = 'CtinivKoWSDema1QfK7by1gbDa0tjcRnvtSw8Fa51f9UJOskew'
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAEd8cwEAAAAAJV89VibVexBGPSSvqkq9mU2ohIs%3DyC3TzMKNxIaM3mcuqRVamBKhzo3xvs4SKx1RPokzbV7fN6AZXc"
-access_token = "1528045807454257152-g7yq7HN7twlh5DKyu6UF8Oox8GHcnX"
-access_token_secret = "p8gmpYbslTQGMnErbgpezliUpIQRaiv5bHc40A2MtwP3E"
-openai.api_key = "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"
+api_key = 'MY_API_KEY'
+api_key_secret = 'MY_API_SECRET'
+bearer_token = "MY_BEARER_TOKEN"
+access_token = "MY_ACCESS_TOKEN"
+access_token_secret = "MY_ACCESS_TOKEN"
+openai.api_key = "OPEN_AI_API"
 USA_WOE_ID = "23424977"
 
 
